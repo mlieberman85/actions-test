@@ -25,10 +25,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ianlewis/actions-test.git"
+    "url": "git+https://github.com/mlieberman85/actions-test.git"
   },
   "bugs": {
-    "url": "https://github.com/ianlewis/actions-test/issues"
+    "url": "https://github.com/mlieberman85/actions-test/issues"
   },
-  "homepage": "https://github.com/ianlewis/actions-test#readme"
+  "homepage": "https://github.com/mlieberman85/actions-test#readme"
 }
